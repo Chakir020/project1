@@ -1,0 +1,37 @@
+* {
+    margin: 0;
+    padding: 1px;
+    box-sizing: border-box;
+}
+
+body{
+    background:linear-gradient(to right, #4ca1af, #c4e0e5);
+}
+
+form{
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+#lostpsw-btn{
+    font-size: 10px; 
+}
+
+
+
+.lostpsw-box{
+    position: absolute;
+    top:65%;   
+}
+
+.btn-submit{
+    width:100%;
+}
+
+.register-btn-box{
+    position: absolute;
+    left: 10%;
+}
